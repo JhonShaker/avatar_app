@@ -1,10 +1,10 @@
-# Ejercicio Guiado - Practicando Versionamientoen Rails
+# Ejercicio Guiado - Practicando Versionamiento en Rails
 
 Actividad correspondiente a la unidad de "Despliegue de una Aplicación en Internet Utilizando Heroku", Modulo 5.
 
 ## Descripción
 
-Desafio Evaluado correspondiente al Módulo 5, Unidad de "Almacenar Información en una Base de Datos", del Curso "Desarrollo Ruby on Rails para Emprendimientos de tipo Startup" de Inforcap.
+Desafio Evaluado correspondiente al Módulo 5, Unidad de "Despliegue de una Aplicación en Internet Utilizando Heroku", del Curso "Desarrollo Ruby on Rails para Emprendimientos de tipo Startup" de Inforcap.
 
 ### Prerrequisitos 📋
 
